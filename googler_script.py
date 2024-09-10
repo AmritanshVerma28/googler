@@ -19,7 +19,7 @@ import aiohttp
 import asyncio
 import nest_asyncio
 nest_asyncio.apply()
-print("new googler")
+#print("new googler")
 class googler:
     def generate_google_search_url(
         self,
